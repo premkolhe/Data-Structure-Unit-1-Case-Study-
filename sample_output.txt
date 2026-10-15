@@ -1,0 +1,15 @@
+PRODUCTS SORTED BY PRICE (LOW TO HIGH)
+Product                 Price     Rating
+------------------------------------------
+Keyboard             $   299.00       4.2
+Mouse                $   499.00       4.1
+Headphones           $   799.00       4.5
+Smartwatch           $   999.00       4.7
+
+MAXIMUM NON-OVERLAPPING CALENDAR SCHEDULE
+Event                   Start        End
+----------------------------------------
+Team Meeting          9:00 AM   10:00 AM
+Client Call          10:00 AM   11:00 AM
+Lunch Meeting        11:00 AM   12:00 PM
+Planning Session     12:00 PM    1:00 PM
