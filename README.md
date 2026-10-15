@@ -27,4 +27,4 @@ No external packages are required.
 3. Run:
 
    ```bash
-   python main.py
+   python CaseStudy1.py
